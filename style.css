@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{margin: 0; padding: 0;}
 a{text-decoration: none;}
 kbd{border: 1px solid red;width:4em; height: 4em; display: inline-block; text-transform: uppercase; position: relative; }
@@ -22,7 +21,6 @@ main{text-align: center; display: flex; justify-content: center; align-items: ce
 .row .key{margin: 0 10px; }
 .key img{width: 16px; height: 16px; position: absolute; left: 4px; bottom: 2px;}
 .key .text{position: absolute; left: 4px; top: 2px; }
-=======
 *{
 	padding: 0
 	margin: 0
@@ -58,4 +56,4 @@ kbd > button{
 kbd:hover > button{
 	display: inline-block;
 }
->>>>>>> 79d9499792e5955cb577a1a44e5d053633f94a3f
+
