@@ -14,7 +14,22 @@ main {
 .main > div:nth-child(3){
 	margin-right: 1em
 }
-a{text-decoration: none;}
-kbd{border: 1px solid red;width:4em; height: 4em; display: inline-block; text-transform: uppercase; position: relative; }
-kbd > button{position: absolute; right: 0; bottom: 0; display: none; }
-kbd:hover > button{display: inline-block; }
+a{
+	text-decoration: none;
+}
+kbd{
+	border: 1px solid red;
+	width:4em; 
+	height: 4em; 
+	display: inline-block; 
+	text-transform: uppercase; 
+	position: relative; 
+}
+kbd > button{
+	position: absolute; 
+	right: 0; bottom: 0; 
+	display: none; 
+}
+kbd:hover > button{
+	display: inline-block;
+}
